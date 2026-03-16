@@ -6,5 +6,7 @@ class Program
     {
         Console.WriteLine("Hello GitHub!");
         Console.ReadLine();
+
+        Console.WriteLine();
     }
 }
